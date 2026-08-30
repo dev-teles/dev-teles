@@ -17,9 +17,9 @@ Sou estudante de Engenharia de Software e atualmente trabalho como Estagiário d
 
 ### Principais Projetos
 
-* 🛠️ **[Totem de Suporte](https://github.com/dev-lucasteles/totem-autoatendimento):** Sistema de autoatendimento corporativo para abertura e acompanhamento de chamados. Desenvolvido com **Java, Spring Boot, JPA/Hibernate e MySQL**.
-* 🧑‍💻 **[API Cadastro de Usuário (CRUD)](https://github.com/dev-lucasteles/cadastro-usuario-CRUD):** API RESTful estruturada para o gerenciamento seguro de usuários, desenvolvida com **Java e Spring Boot**.
-* 📦 **[Sistema de Gerenciamento de Materiais](https://github.com/dev-lucasteles/sistema-gerenciamento-de-materiais):** Aplicação para gestão de estoque e visualização de dados via interface desktop/terminal, desenvolvida em **Python (Matplotlib, Numpy) e SQLite3**.
+*  **[Totem de Suporte](https://github.com/dev-lucasteles/totem-autoatendimento):** Sistema de autoatendimento corporativo para abertura e acompanhamento de chamados. Desenvolvido com **Java, Spring Boot, JPA/Hibernate e MySQL**.
+*  **[API Cadastro de Usuário (CRUD)](https://github.com/dev-lucasteles/cadastro-usuario-CRUD):** API RESTful estruturada para o gerenciamento seguro de usuários, desenvolvida com **Java e Spring Boot**.
+*  **[Sistema de Gerenciamento de Materiais](https://github.com/dev-lucasteles/sistema-gerenciamento-de-materiais):** Aplicação para gestão de estoque e visualização de dados via interface desktop/terminal, desenvolvida em **Python (Matplotlib, Numpy) e SQLite3**.
 
 ### Estatísticas
 
