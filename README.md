@@ -24,8 +24,8 @@ Sou estudante de Engenharia de Software e atualmente trabalho como Estagiário d
 ### Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-lucasteles&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estatísticas do Lucas" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-lucasteles&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-lucasteles&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Estatísticas do Lucas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-lucasteles&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Linguagens mais usadas" height="150"/>
 </p>
 
 ### 📬 Contatos
