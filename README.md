@@ -1,6 +1,8 @@
 # Olá, eu sou Lucas! 
 
-Sou estudante de desenvolvimento de software com foco em Backend, apaixonado por construir soluções robustas e sistemas bem estruturados. Tenho facilidade em transitar entre diferentes ecossistemas e gosto de entender as regras de negócio e a arquitetura por trás dos projetos.
+### Desenvolvedor Web | Estudante de Engenharia de Software | Suporte de TI
+
+Sou estudante de Engenharia de Software e atualmente trabalho como Estagiário de Suporte de TI (N1). Minha vivência diária com infraestrutura, redes e *troubleshooting* desenvolveu minha capacidade analítica para a resolução de problemas. Agora, estou aplicando toda essa base operacional para construir e evoluir no desenvolvimento de software.
 
 ### Tecnologias e Ferramentas
 
@@ -13,7 +15,21 @@ Sou estudante de desenvolvimento de software com foco em Backend, apaixonado por
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## O que você vai encontrar por aqui:
-- APIs RESTful desenvolvidas com Spring Boot (foco em camadas claras de Controller, Service e Repository).
-- Projetos desktop interativos integrando back-end moderno com interfaces gráficas (JavaFX) e comunicação com hardware externo.
-- Scripts em Python focados em lógica de negócios.
+### Principais Projetos
+
+* 🛠️ **[Totem de Suporte](https://github.com/dev-lucasteles/totem-autoatendimento):** Sistema de autoatendimento corporativo para abertura e acompanhamento de chamados. Desenvolvido com **Java, Spring Boot, JPA/Hibernate e MySQL**.
+* 🧑‍💻 **[API Cadastro de Usuário (CRUD)](https://github.com/dev-lucasteles/cadastro-usuario-CRUD):** API RESTful estruturada para o gerenciamento seguro de usuários, desenvolvida com **Java e Spring Boot**.
+* 📦 **[Sistema de Gerenciamento de Materiais](https://github.com/dev-lucasteles/sistema-gerenciamento-de-materiais):** Aplicação para gestão de estoque e visualização de dados via interface desktop/terminal, desenvolvida em **Python (Matplotlib, Numpy) e SQLite3**.
+
+### Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-lucasteles&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estatísticas do Lucas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-lucasteles&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" height="150"/>
+</p>
+
+### 📬 Contatos
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-teles-rj/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.teles@gruporiomais.com.br)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5522999151985)
