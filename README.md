@@ -24,7 +24,7 @@ Sou estudante de Engenharia de Software e atualmente trabalho como Estagiário d
 ### Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-lucasteles&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-teles&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="GitHub Streak" />
 </p>
 
 ### 📬 Contatos
