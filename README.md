@@ -32,7 +32,6 @@ Estudante de **Engenharia de Software** e atuante em **Suporte de TI e Infraestr
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **[Mais Contratos (CLM)](https://github.com/dev-teles/gestor-de-contratos)** | Plataforma corporativa para gestão do ciclo de vida de contratos, homologação de fornecedores, controle de vencimentos e trilha de auditoria SHA-256. | `React 19` `TypeScript` `Tailwind CSS` `Vite` |
 | **[Totem de Autoatendimento](https://github.com/dev-teles/totem-autoatendimento)** | Sistema corporativo para abertura de chamados de suporte em terminal com emissão de tickets e integração com back-end. | `Java` `Spring Boot` `JPA/Hibernate` `MySQL` |
 | **[Sistema de Autenticação JWT](https://github.com/dev-teles/sistema-login-jwt)** | Aplicação full-stack de autenticação e controle de sessão com criptografia de senhas (`bcrypt`) e rotas privadas protegidas via middleware. | `Node.js` `Express` `MongoDB` `JWT` |
 | **[API Cadastro de Usuários](https://github.com/dev-teles/cadastro-usuario-CRUD)** | API RESTful estruturada em camadas para gerenciamento completo (CRUD) de usuários e persistência relacional. | `Java` `Spring Boot` `Maven` |
